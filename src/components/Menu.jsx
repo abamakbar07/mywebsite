@@ -1,5 +1,7 @@
 import React from "react";
 import NavbarMenu from "./NavbarMenu";
+import Projects from "../views/Projects";
+import Home from "../views/Home";
 
 const Menu = () => {
   return (
@@ -8,7 +10,8 @@ const Menu = () => {
       <NavbarMenu />
 
       <div className="site-content">
-        <h1 className="site-content__headline">Another menu concept</h1>
+        {/* <h1 className="site-content__headline">Another menu concept</h1> */}
+        <Home />
       </div>
     </div>
   );
