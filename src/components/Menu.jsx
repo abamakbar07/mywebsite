@@ -1,6 +1,6 @@
 import React from "react";
 import NavbarMenu from "./NavbarMenu";
-import Projects from "../views/Projects";
+// import Projects from "../views/Projects";
 import Home from "../views/Home";
 
 const Menu = () => {
