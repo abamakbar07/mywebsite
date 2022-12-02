@@ -4,7 +4,7 @@ const Home = () => {
     return (
         <div className="Home">
             <div className="hello">
-                Hello there... I'am
+                Hello there... Saya
             </div>
             <div className="name">
                 <img className="akbarafriansyahpng" src={logo} alt="" />
