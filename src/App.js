@@ -5,7 +5,7 @@ import './components/style.scss'
 function App() {
   return (
     <div className="App">
-      <Menu />
+      {/* <Menu /> */}
     </div>
   );
 }
