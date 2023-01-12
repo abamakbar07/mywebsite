@@ -15,9 +15,9 @@ const Home = () => {
                 <div className="kontener">
                     <div className="iam">
                         {/* I'am a<span></span> */}
-                        <div><div>Tank User</div></div>
-                        <div><div>Chess Player</div></div>
-                        <div><div>Fullstack Developer</div></div>
+                        <div><div>Nothing</div></div>
+                        <div><div>Nothing</div></div>
+                        <div><div>Nothing</div></div>
                     </div>
                 </div>
             </div>
